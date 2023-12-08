@@ -3,9 +3,9 @@
 
 ## Problem Statement
 
-A motorbike manufacturing company puts out a survey that collects data on various individuals in different demographic classes and reveals if they purchased a bike or not.
+A motorbike manufacturing company collects data on various individuals in different demographic classes and reveals if they purchased a bike or not.
 
-Creates a dashboard that helps the motorbike manufacturing company understand its potential customers better. This dashboard should help the company make data-driven decisions as regards its marketing strategy.
+Create a dashboard that helps the motorbike manufacturing company understand its potential customers better. This dashboard should help the company make data-driven decisions as regards its marketing strategy.
 
 
 ## Steps followed 
