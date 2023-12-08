@@ -3,9 +3,9 @@
 
 ## Problem Statement
 
-This survey collects data on various individuals in different demographic classes and reveals if they purchased a bike or not.
+A motorbike manufacturing company puts out a survey that collects data on various individuals in different demographic classes and reveals if they purchased a bike or not.
 
-This analysis project creates a dashboard that helps the motorbike manufacturing company understand its potential customers better. It helps them to know who best to market to accross different demographics.
+Creates a dashboard that helps the motorbike manufacturing company understand its potential customers better. This dashboard should help the company make data-driven decisions as regards its marketing strategy.
 
 
 ## Steps followed 
@@ -37,6 +37,8 @@ This analysis project creates a dashboard that helps the motorbike manufacturing
 ## Insights
 
 A single page dashboard was created on Microsoft Excel.
+
+![Bike Sales Dashboard](https://github.com/Jucodez/Bike-Sales-Analysis/assets/102746691/e6ba30f6-9230-4f6d-84cb-8728baf5a574)
 
 The following inferences can be drawn from the dashboard;
 
