@@ -1,4 +1,4 @@
-# Bike Sales Dashboard
+# Bike Sales Analysis
 
 
 ## Problem Statement
