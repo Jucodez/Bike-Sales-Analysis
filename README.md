@@ -5,7 +5,7 @@
 
 This survey collects data on various individuals in different demographic classes and reveals if they purchased a bike or not.
 
-This dashboard helps the motorbike manufacturing company understand its potential customers better. It helps them to know who best to market to accross different demographics.
+This analysis project creates a dashboard that helps the motorbike manufacturing company understand its potential customers better. It helps them to know who best to market to accross different demographics.
 
 
 ## Steps followed 
