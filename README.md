@@ -36,7 +36,7 @@ This analysis project creates a dashboard that helps the motorbike manufacturing
 
 ## Insights
 
-A single page report was created on Microsoft Excel.
+A single page dashboard was created on Microsoft Excel.
 
 The following inferences can be drawn from the dashboard;
 
