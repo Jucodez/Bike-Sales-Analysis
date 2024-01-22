@@ -1,4 +1,4 @@
-# Bike Sales Analysis
+# Bike Sales Analytics Project
 
 
 ## Problem Statement
